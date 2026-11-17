@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Vervang JOUWDOMEIN.nl door je echte domein zodra je dat hebt. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://vertechstudio.nl/</loc><priority>1.0</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/pricing.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/examples.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/contact.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-01.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-02.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-03.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-04.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-05.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-06.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-07.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-08.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-09.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-10.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-11.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-12.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-13.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/info-14.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://vertechstudio.nl/privacy.html</loc></url>
+  <url><loc>https://vertechstudio.nl/terms.html</loc></url>
+</urlset>

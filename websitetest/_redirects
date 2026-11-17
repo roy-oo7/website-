@@ -1,0 +1,5 @@
+# Cloudflare Pages redirects — handig als iemand een oude of korte URL typt
+/home            /index.html        301
+/prijzen         /pricing.html      301
+/voorbeelden     /examples.html     301
+/over-ons        /contact.html      301
